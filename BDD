@@ -1,0 +1,18 @@
+BDD - Behavior Driven Development
+
+Desenvolvimento Orientado a Comportamento, é uma abordagem 
+de desenvolvimento de software que se concentra em escrever 
+testes de uma forma que todos possam entender.
+
+Em vez de apenas verificar se o código funciona, BDD se concentra 
+em verificar se o software se comporta conforme o esperado em diferentes 
+situações, como um usuário real usaria. Isso ajuda a melhorar a comunicação 
+entre as equipes de desenvolvimento, teste e negócios, garantindo que o 
+software atenda aos requisitos e expectativas.
+
+O processo típico de BDD envolve as seguintes etapas:
+-Descoberta de Comportamento;
+-Escrita de Cenários;
+-Implementação;
+-Teste e Validação;
+-Feedback e Iteração.
