@@ -1,0 +1,12 @@
+Fluxos de Testes
+
+Fluxos de testes, também conhecidos como cenários de teste 
+ou casos de teste, são sequências específicas de ações e 
+entradas que os testadores seguem para verificar o comportamento 
+de um sistema de software.
+
+Eles descrevem passo a passo como um teste deve ser executado, 
+incluindo as etapas a serem seguidas, as entradas a serem 
+fornecidas e os resultados esperados a serem observados.
+
+Cenários de testes definem “O que” deve ser testado".
