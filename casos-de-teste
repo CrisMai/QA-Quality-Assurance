@@ -1,0 +1,13 @@
+Casos de teste, também conhecidos como casos de teste de 
+software ou scripts de teste, são documentos ou conjuntos de 
+instruções que descrevem detalhadamente os procedimentos a 
+serem seguidos para verificar se um determinado aspecto ou 
+funcionalidade de um software funciona corretamente.
+
+Os casos de teste podem ser criados em várias fases do ciclo de 
+desenvolvimento de software, desde a fase de planejamento até a 
+fase de testes finais. Eles são essenciais para guiar os testadores 
+na execução sistemática dos testes e na documentação dos resultados.
+
+No caso de teste nós detalhamos aquilo que vamos testar, que é o “como”.
+Como vamos testar aquilo?
