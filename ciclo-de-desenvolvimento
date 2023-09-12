@@ -1,0 +1,25 @@
+
+Exite o ciclo de desenvolvimento em cascata e o 
+modelo de desenvolvimento ágil.
+
+Modelo em cascata
+
+As etapas do projeto são feitas uma após a outra de forma síncrona. 
+Cada fase deve ser concluída antes de passar para a próxima. Portanto, 
+neste esquema é dada muita ênfase às fases de análise e projeto antes 
+de partirmos para a programação de fato. Uma desvantagem é que dessa forma 
+fica difícil prevenir erros, dado que a etapa de testes fica apenas no final;
+
+É adequado para projetos com requisitos bem definidos desde o início, mas pode 
+ser inflexível quando mudanças são necessárias após o início do desenvolvimento.
+
+
+Modelo ágil
+
+A abordagem iterativa enfatiza a entrega rápida de uma aplicação em componentes 
+funcionais completos, com entregas menores.
+Ele se concentra na colaboração, adaptação a mudanças e entrega incremental. 
+Os projetos ágeis são divididos em iterações curtas, onde funcionalidades são 
+desenvolvidas, testadas e entregues. 
+
+A pessoa responsável de QA consegue participar de todo o processo de desenvolvimento.
