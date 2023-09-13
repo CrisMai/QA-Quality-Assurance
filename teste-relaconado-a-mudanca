@@ -1,0 +1,30 @@
+
+Teste de Regressão
+
+É uma técnica de teste a ser aplicada quando surgem novas versões mais 
+recentes do software e garante que não surjam novos defeitos em componentes 
+já analisados.
+
+O teste verifica se as alterações recentes no código não afetaram negativamente 
+as funcionalidades existentes do software. É executado após modificações e 
+atualizações para garantir que as partes previamente testadas continuem funcionando 
+conforme o esperado.
+
+
+Teste de Fumaça
+
+O teste de fumaça é um teste inicial e básico que verifica se as principais 
+funcionalidades críticas de uma aplicação estão funcionando. Ele é usado para 
+identificar problemas óbvios e garantir que o software esteja minimamente operacional 
+antes de proceder a testes mais detalhados.
+
+
+Teste de Sanidade
+
+É o subconjunto do teste de regressão e também é realizado quando não temos tempo 
+suficiente para fazer o teste mais elaborado. Ele tem um nível superficial e verifica 
+se as funcionalidades mais críticas do sistema estão conforme o esperado;
+
+O teste de sanidade é também conhecido como teste de verificação, verifica se as alterações 
+recentes em uma parte específica do software foram implementadas corretamente e não causaram 
+problemas evidentes. 
