@@ -1,0 +1,21 @@
+Testes de Limite
+
+Consistem em testar os valores mínimo e máximo (ou primeiro e último valores) 
+de uma partição. Essa técnica é geralmente usada para testar requisitos que 
+exigem um intervalo de números (incluindo datas e horas).
+Ele verifica como o sistema lida com condições extremas ou excepcionais.
+
+
+Teste de Transição de Estados
+
+O teste de estado verifica como o software se comporta em diferentes estados 
+do sistema. Ele testa transições entre estados e a funcionalidade em cada 
+estado para garantir que o software funcione corretamente em diferentes cenários.
+
+
+Testes Exploratórios
+
+É uma abordagem não planejada, onde os testadores exploram o software sem roteiros 
+ou casos de teste predefinidos. Eles descobrem e relatam defeitos enquanto interagem 
+com o sistema, usando sua experiência e intuição para encontrar problemas. 
+É útil para descobrir problemas inesperados e melhorar a qualidade do software.
