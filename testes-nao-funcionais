@@ -1,0 +1,41 @@
+Testes Não-Funcionais
+
+Avaliam as características do software que não estão relacionadas diretamente 
+às suas funcionalidades, mas à sua qualidade e desempenho. Eles se concentram 
+em aspectos como desempenho, segurança, usabilidade, escalabilidade e 
+confiabilidade do software, garantindo que ele atenda aos requisitos não funcionais 
+estabelecidos, como velocidade, segurança e disponibilidade. 
+Esses testes visam medir a eficácia e a capacidade do software de funcionar 
+adequadamente sob várias condições e garantir uma boa experiência do usuário.
+
+
+Exemplos de testes não-funcionais:
+-Teste de desempenho: Avalia o desempenho do software em termos de velocidade, 
+tempo de resposta e uso de recursos sob carga.
+
+-Teste de Segurança: Verifica a resistência do software a ameaças e ataques cibernéticos, 
+garantindo a proteção de dados e sistemas.
+
+-Teste de Usabilidade: Avalia a facilidade de uso, eficiência e satisfação do usuário ao 
+interagir com o software.
+
+-Teste de Escalabilidade: Verifica como o software lida com o aumento da carga e se 
+consegue escalar para atender a mais usuários ou dados.
+
+-Teste de Confiabilidade: Avalia a estabilidade e a disponibilidade do software, 
+incluindo sua capacidade de recuperação após falhas.
+
+-Teste de Compatibilidade: Verifica se o software funciona corretamente em diferentes 
+dispositivos, navegadores ou sistemas operacionais.
+
+-Teste de Resiliência: Avalia como o software se comporta em situações de falha e como 
+ele se recupera de problemas.
+
+-Teste de Integração: Garante que os diferentes componentes do software se integrem 
+corretamente e funcionem em conjunto.
+
+-Teste de Conformidade: Verifica se o software atende a padrões e regulamentações 
+específicas da indústria.
+
+-Teste de Manutenibilidade: Avalia quão fácil é manter e atualizar o software ao 
+longo do tempo.
