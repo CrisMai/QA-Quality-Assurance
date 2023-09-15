@@ -1,0 +1,29 @@
+Testes de Caixa Branca
+
+Também conhecidos como testes estruturais, são uma abordagem de teste 
+que examina o código-fonte interno de um software. Os testadores têm 
+conhecimento da estrutura interna, lógica e algoritmos do programa. 
+Eles criam casos de teste com base nesse conhecimento para garantir 
+que todas as partes do código sejam testadas de maneira completa e eficiente. 
+
+Esses testes se concentram em verificar se o código-fonte executa corretamente 
+de acordo com sua lógica e estrutura, identificando erros lógicos, 
+ramificações e caminhos no código.
+
+Ex: teste unitário, teste de integração de componentes, testes de 
+serviços(API).
+
+
+
+Testes de Caixa Preta
+
+São uma abordagem de teste que avalia o software com base em suas 
+entradas e saídas, sem conhecimento da estrutura interna do código-fonte. 
+Os testadores tratam o software como uma "caixa preta" e se concentram em 
+verificar se ele se comporta de acordo com os requisitos e especificações s
+em se preocupar com a implementação interna. 
+
+Esses testes se concentram na funcionalidade, usabilidade e comportamento 
+externo do software, identificando problemas que os usuários finais podem encontrar.
+
+Ex: teste de aceitação, teste de sistemas, teste de usabilidade.
