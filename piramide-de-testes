@@ -1,0 +1,19 @@
+Pirâmide de Testes
+
+A pirâmide de teste é um modelo que representa a distribuição ideal 
+de diferentes tipos de testes em um projeto de software. Ela é chamada 
+de pirâmide devido à sua forma, que se assemelha a uma pirâmide. 
+Na pirâmide de teste, os tipos de testes são organizados em três camadas, 
+com base na quantidade e no foco:
+
+- Testes de Unidade: Na base da pirâmide, os testes de unidade são os mais numerosos. 
+Eles se concentram na validação de unidades individuais de código, como funções ou 
+métodos, de forma isolada.
+
+- Testes de Integração: No meio da pirâmide, os testes de integração verificam como 
+diferentes componentes ou módulos interagem entre si. Eles se concentram na integração 
+de unidades de código.
+
+- Testes de Aceitação: No topo da pirâmide, os testes de aceitação são menos numerosos, 
+mas mais abrangentes. Eles validam se o sistema atende aos requisitos do negócio e se 
+está pronto para ser aceito pelos usuários finais.
