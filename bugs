@@ -1,0 +1,37 @@
+Bugs
+
+Existe uma diferença entre defeito e falha. O defeito é um erro no código 
+em si ou num documento. E a falha é a manifestação desse erro ou erros. 
+A falha é o que vemos, o erro visual, e o defeito é o erro no código.
+
+Englobamos tudo isso no que chamamos de bugs, que são esses comportamentos 
+anormais. Tudo que não está previsto, todo comportamento indesejado é um bug.
+
+Quando encontramos algum bug é preciso reportá-lo para a equipe e pode ser 
+feito da seguinte maneira:
+
+- Título Descritivo: Dê um título claro e descritivo para o bug, resumindo o 
+problema em poucas palavras.
+
+- Descrição Concisa: Descreva o bug de forma sucinta, incluindo o que aconteceu, 
+quando ocorreu e em que circunstâncias.
+
+- Comportamento Esperado: Indique o comportamento que você esperava ver em vez do bug.
+
+- Comportamento Observado: Descreva o comportamento real que você observou.
+
+- Capturas de Tela (se aplicável): Anexe capturas de tela ou imagens que ilustrem o 
+problema, se possível.
+
+- Ambiente de Teste: Informe sobre o sistema operacional, navegador, dispositivo ou 
+ambiente em que o bug foi encontrado.
+
+- Prioridade e Severidade: Atribua uma classificação de prioridade (quão importante é) 
+e severidade (quão impactante é) ao bug, se for relevante.
+
+- Informações Adicionais: Forneça informações adicionais, como logs de erros, se aplicável.
+
+- Assinatura e Data: Inclua seu nome ou identificação, bem como a data do relatório.
+
+- Envie para a Equipe de Desenvolvimento: Envie o relatório para a equipe de desenvolvimento 
+ou a equipe de suporte, dependendo do processo da sua organização.
