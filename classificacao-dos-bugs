@@ -1,0 +1,39 @@
+Classificação dos Bugs
+
+Os bugs, também conhecidos como defeitos ou problemas de software, 
+podem ser classificados de várias maneiras, dependendo dos critérios 
+utilizados. 
+
+Alguns critérios comuns de classificação de bugs incluem:
+
+- Prioridade: Indica o quão importante é o bug em relação aos objetivos 
+do projeto. Geralmente, a prioridade é definida como alta, média ou baixa.
+
+- Severidade: Reflete o impacto do bug no funcionamento do software. Pode 
+variar de crítico (o software não pode ser usado) a menor 
+(inconveniente, mas não impede o uso).
+
+- Estado: Define o status atual do bug no ciclo de vida do desenvolvimento ou 
+no processo de teste, como "aberto," "atribuído," "em andamento," 
+"resolvido" ou "fechado."
+
+- Tipo: Classifica o bug com base em sua natureza ou origem, como bugs de 
+funcionalidade, bugs de usabilidade, bugs de desempenho, bugs de segurança, 
+entre outros.
+
+- Origem: Indica onde o bug foi descoberto ou sua origem, como bugs relatados 
+por testadores, bugs identificados por usuários finais, bugs encontrados 
+durante revisões de código, entre outros.
+
+- Causa Raiz: Identifica a causa subjacente do bug, como erro de programação, 
+falta de requisitos claros, problemas de integração, etc.
+
+- Ciclo de Vida: Reflete em qual fase do ciclo de desenvolvimento o bug foi 
+introduzido e em qual fase foi descoberto.
+
+- Histórico: Registra a evolução do bug ao longo do tempo, incluindo quando 
+foi relatado, quem o resolveu, datas de correções, entre outros.
+
+- Localização: Especifica a localização no código-fonte onde o bug ocorre, 
+facilitando sua identificação e correção.
+
