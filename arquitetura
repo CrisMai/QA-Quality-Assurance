@@ -1,0 +1,11 @@
+Arquitetura de Testes
+
+A arquitetura no plano de teste se refere à consideração da estrutura 
+e design do software durante o planejamento dos testes. Isso envolve a 
+compreensão das diferentes camadas, componentes, módulos e integrações 
+do sistema para garantir que os testes abranjam adequadamente todas 
+essas áreas. 
+
+
+A documentação da arquitetura do software facilita a comunicação entre os 
+membros dos times, pois registra as decisões iniciais acerca do projeto.
