@@ -1,0 +1,13 @@
+Escopo de Plano de Teste
+
+Os escopos de um plano de teste são delimitações ou limites que definem o 
+que será testado e o que não será testado em um projeto de software. 
+
+Eles estabelecem as fronteiras do trabalho de teste e determinam quais funcionalidades, 
+requisitos ou aspectos do software serão abordados pelos testes. 
+    
+Definir os escopos de um plano de teste é fundamental para garantir que os esforços de 
+teste sejam direcionados e eficientes, atendendo às necessidades específicas do projeto. 
+Esses escopos podem incluir áreas funcionais, módulos específicos, tipos de teste 
+(como teste de desempenho, segurança, usabilidade), ou qualquer outro critério relevante 
+para o contexto do projeto.
