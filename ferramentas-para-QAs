@@ -1,0 +1,20 @@
+Ferramentas para QAs
+
+TestLink é uma ferramenta open source de gerenciamento de testes. 
+Com ela conseguimos cadastrar projetos de teste, bem como seus 
+respectivos planos e casos de testes. 
+
+
+Bugzilla e Mantis são duas ferramentas populares para o rastreamento 
+de bugs. Ambas são de código aberto e oferecem recursos como reporte 
+de bugs, relatórios, gráficos, além da possibilidade de definição de 
+prioridades de bugs envolvendo clientes e opções como mandar e-mails 
+quando um bug é reportado ou resolvido, por exemplo.
+
+
+Jira tem interação com ferramentas da Microsoft e é muito utilizada 
+pelas empresas, servindo para a gestão de todo o projeto e suas atividades. 
+Oferece suporte para qualquer metodologia ágil, como Scrum e Kanban. Com ela 
+é possível acompanhar as tarefas sendo desenvolvidas, reportar e acompanhar bugs. 
+Por meio de um plugin chamado XRay, ela se torna uma ferramenta poderosa para a 
+gestão, permitindo planejar, projetar e executar testes, bem como gerar relatórios.
